@@ -35,11 +35,11 @@ Use gesture to play by AI
 ## Test
 
 - Paper && Rock  
-  ![paper](./images/paper.png)
-  ![rock](./images/rock.png)
-  [Video1](https://github.com/Eveneko/AirGesture/blob/master/video/video1.mp4)
+  ![paper](./images/paper.png)  
+  ![rock](./images/rock.png)  
+  [Video1](https://github.com/Eveneko/AirGesture/blob/master/video/video1.mp4)  
 
-- Dinosaur
-  ![play](./images/play.png)
-  ![Chrome://dino](./images/dino.png)
-  [Video2](https://github.com/Eveneko/AirGesture/blob/master/video/video2.mp4)
+- Dinosaur  
+  ![play](./images/play.png)  
+  ![Chrome://dino](./images/dino.png)  
+  [Video2](https://github.com/Eveneko/AirGesture/blob/master/video/video2.mp4)  
