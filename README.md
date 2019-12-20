@@ -31,6 +31,6 @@ Use gesture to play by AI
 - Paper && Rock  
   [Video1](https://github.com/Eveneko/AirGesture/video/video1.mp4)
 
-- Dinosaur. 
-  ![Chrome://dino](./images/dino.png)
+- Dinosaur  
+  ![Chrome://dino](./images/dino.png)  
   [Video2](https://github.com/Eveneko/AirGesture/video/video2.mp4)
